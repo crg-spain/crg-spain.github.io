@@ -1,0 +1,40 @@
+
+1. Sci Eng Ethics. 2017 Mar 9. doi: 10.1007/s11948-017-9886-2. [Epub ahead of print]
+
+Questionable, Objectionable or Criminal? Public Opinion on Data Fraud and
+Selective Reporting in Science.
+
+Pickett JT(1), Roche SP(2).
+
+Author information: 
+(1)School of Criminal Justice, University at Albany - State University of New
+York, 135 Western Avenue, Albany, NY, 12222, USA. jpickett@albany.edu.
+(2)School of Criminal Justice, University at Albany - State University of New
+York, 135 Western Avenue, Albany, NY, 12222, USA.
+
+Data fraud and selective reporting both present serious threats to the
+credibility of science. However, there remains considerable disagreement among
+scientists about how best to sanction data fraud, and about the ethicality of
+selective reporting. The public is arguably the largest stakeholder in the
+reproducibility of science; research is primarily paid for with public funds, and
+flawed science threatens the public's welfare. Members of the public are able to 
+make meaningful judgments about the morality of different behaviors using moral
+intuitions. Legal scholars emphasize that to maintain legitimacy, social control 
+policies must be developed with some consideration given to the public's moral
+intuitions. Although there is a large literature on popular attitudes toward
+science, there is no existing evidence about public opinion on data fraud or
+selective reporting. We conducted two studies-a survey experiment with a
+nationwide convenience sample (N = 821), and a follow-up survey with a
+representative sample of US adults (N = 964)-to explore community members'
+judgments about the morality of data fraud and selective reporting in science.
+The findings show that community members make a moral distinction between data
+fraud and selective reporting, but overwhelmingly judge both behaviors to be
+immoral and deserving of punishment. Community members believe that scientists
+who commit data fraud or selective reporting should be fired and banned from
+receiving funding. For data fraud, most Americans support criminal penalties.
+Results from an ordered logistic regression analysis reveal few demographic and
+no significant partisan differences in punitiveness toward data fraud.
+
+DOI: 10.1007/s11948-017-9886-2 
+PMID: 28281156 
+
