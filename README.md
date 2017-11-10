@@ -1,4 +1,4 @@
-## SciLeak
+## SciLeaks
 
 CRG, Barcelona/EMBL Systems biology unit — a case of research misconduct in Spain (ERC/Horizont2020 funding),
 details and comments on this repository docs:
