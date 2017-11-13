@@ -14,7 +14,7 @@ Details and comments on how Luis Serrano, CRG Director, and his favorite M Lluch
 excellent:
 http://jwapatoo.blogspot.com
 
-<<<< Now you know this. Please, don't be complicit.
+<<<< EMBL, ERC, other CRG tops know about all this and keep silent complicity.
 
 Enjoy! © DropBox.
 
