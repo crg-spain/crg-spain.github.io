@@ -4,7 +4,7 @@ CRG, Barcelona/EMBL Systems biology unit — a case of research misconduct in Sp
 details and comments on this repository docs:\
 [How Luis Serrano, CRG Director, and his favorite Maria Lluch-Senar make biomed research excellent](http://jwapatoo.blogspot.com)
 
-[Another example: double publication/post-publication data manipulation by CRG tops](https://pubpeer.com/publications/9A95DC80EA54D591EE073D5BE1A047)
+Another example: [double publication/post-publication data manipulation by CRG, Barcelona, tops](https://pubpeer.com/publications/9A95DC80EA54D591EE073D5BE1A047)
 (on PubPeer)
 
 1. image manipulation by their PI M. P. Cosma
