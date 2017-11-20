@@ -16,5 +16,5 @@ CRG/EMBL Systems Biology unit tops in action:
 + Juan Valcarcel, PI
 + Jaume Bertranpetit, Scientific Director ICREA
 
-<<< EMBL, ERC, other CRG tops know about all this and keep silent complicity.
+/// EMBL, ERC, other CRG tops know about all this and keep silent complicity.
 
