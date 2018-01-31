@@ -10,4 +10,5 @@ What's excuse-me?
 Enjoy! © DropBox.
 
 P.S.
-You can also find me asking google about cellular phenotype.
+You can also find me asking google about cellular phenotype
+Updates are on my twitter: @JWapatoo
